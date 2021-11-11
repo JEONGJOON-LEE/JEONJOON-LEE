@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there😁 </h1>
-<h2 align="left">I'm JeonJoonLee who is interested in Backend, Frontend development from South Korea.<br/>If you want to contact me, please leave me a message!</h2>
+<h2 align="center">I'm JeonJoonLee who is interested in Backend, Frontend development from South Korea.<br/>If you want to contact me, please leave me a message!</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONJOON-LEE&show_icons=true&theme=radical)<br/>
 
