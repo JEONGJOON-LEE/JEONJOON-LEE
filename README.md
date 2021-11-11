@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center"> Hi there😁 </h1>
 <h2 align="left">I'm JeonJoonLee who is interested in Backend, Frontend development from South Korea.<br/>If you want to contact me, please leave me a message!</h2>
 
